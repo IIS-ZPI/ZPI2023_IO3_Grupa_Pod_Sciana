@@ -1,1 +1,1 @@
-print('grupa_pod_sciana\nGithub name scrum mastera: SelfishCrayfish\n\nJan Kozlowski: Developer\nBartosz Lysakowski: Developer\nKacper Zatonski: Developer\nMilosz Dzierzawski: DevOps\nArtur Trebski: Developer, Scrum Master, Github ID: 137427463')
+print('grupa_pod_sciana\nGithub name scrum mastera: SelfishCrayfish\n\nJan Kozlowski: Developer, Github ID: 97686873\nBartosz Lysakowski: Developer\nKacper Zatonski: Developer\nMilosz Dzierzawski: DevOps\nArtur Trebski: Developer,Scrum Master, Github ID: 137427463')
