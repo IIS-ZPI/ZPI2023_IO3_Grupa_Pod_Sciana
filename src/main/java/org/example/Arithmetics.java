@@ -3,7 +3,7 @@ package org.example;
 public class Arithmetics implements IArithmeticsAdd, IArithmeticsDiff, IArithmeticsDiv, IArithmeticsMult {
     @Override
     public double Addition(double a, double b) {
-        return 0;
+        return a+b;
     }
 
     @Override
