@@ -1,6 +1,6 @@
 package org.example;
 
-public class Arithmetics implements IArithmeticsAdd, IArithmeticsDiff, IArithmeticsDiv, IArithmeticsMult{
+public class Arithmetics implements IArithmeticsAdd, IArithmeticsDiff, IArithmeticsDiv, IArithmeticsMult {
     @Override
     public double Addition(double a, double b) {
         return 0;
@@ -13,6 +13,9 @@ public class Arithmetics implements IArithmeticsAdd, IArithmeticsDiff, IArithmet
 
     @Override
     public double Division(double a, double b) {
+        if (b != 0) {
+            return a / b;
+        }
         return 0;
     }
 
