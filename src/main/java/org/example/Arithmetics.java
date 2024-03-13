@@ -21,6 +21,6 @@ public class Arithmetics implements IArithmeticsAdd, IArithmeticsDiff, IArithmet
 
     @Override
     public double Multiplication(double a, double b) {
-        return 0;
+        return a * b;
     }
 }
