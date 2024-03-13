@@ -8,7 +8,7 @@ public class Arithmetics implements IArithmeticsAdd, IArithmeticsDiff, IArithmet
 
     @Override
     public double Difference(double a, double b) {
-        return 0;
+        return a - b;
     }
 
     @Override
